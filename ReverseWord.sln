@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWord", "ReverseWord\ReverseWord.csproj", "{F720EAEA-E6E1-4439-AD33-7DE334C46CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordTest", "ReverseWordTest\ReverseWordTest.csproj", "{6AC36563-67A7-40F1-BE54-11465C364F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F720EAEA-E6E1-4439-AD33-7DE334C46CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F720EAEA-E6E1-4439-AD33-7DE334C46CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F720EAEA-E6E1-4439-AD33-7DE334C46CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F720EAEA-E6E1-4439-AD33-7DE334C46CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC36563-67A7-40F1-BE54-11465C364F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC36563-67A7-40F1-BE54-11465C364F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC36563-67A7-40F1-BE54-11465C364F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC36563-67A7-40F1-BE54-11465C364F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782CB2A6-B4EF-48FC-B450-D937364A6712}
+	EndGlobalSection
+EndGlobal
